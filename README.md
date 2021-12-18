@@ -1,1 +1,1 @@
-# Horoskop
+# Horoscope
